@@ -9,5 +9,5 @@ Projeto desenvolvido com as tecnologias HTML5 - CSS3 - JAVASCRIPT. Edição e ve
 
  :package: Funcionalidade
  :up: Atualização
- :beatle: Correção de bug
+ :beetle: Correção de bug
  :checkered_flag: Release
