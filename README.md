@@ -14,6 +14,7 @@ Projeto desenvolvido com as tecnologias HTML5 - CSS3 - JAVASCRIPT. Edição e ve
 - :up: Atualização
 - :beetle: Correção de bug
 - :checkered_flag: Release
+- :speech_balloon: Aguardando comentários
 
 ## Cometários
 
@@ -22,6 +23,10 @@ Projeto desenvolvido com as tecnologias HTML5 - CSS3 - JAVASCRIPT. Edição e ve
 - As imagens utilizadas nesse projeto foram editadas utilizando Photoshop CC 2019 e CorelDraw 2020
 
 - Encontrei problemas na sessão Projetos. Os cards estão ficando sobrepostos ao sidebar (Buscando solução)
+
+- precisei usar imagens da internet, porque não estava sendo possível utlizar as locais( Buscando solução)
+
+- Ainda não consegui resolver o problema da sidebar
 
 ## Sobre mim
 
