@@ -16,6 +16,7 @@ Projeto desenvolvido com as tecnologias HTML5 - CSS3 - JAVASCRIPT. Edição e ve
 - :checkered_flag: Release
 - :speech_balloon: Aguardando comentários
 - :wrench: Corrigido
+- :trophy: Congratulações
 
 ## Cometários
 
@@ -23,13 +24,13 @@ Projeto desenvolvido com as tecnologias HTML5 - CSS3 - JAVASCRIPT. Edição e ve
 
 - As imagens utilizadas nesse projeto foram editadas utilizando Photoshop CC 2019 e CorelDraw 2020
 
-- Encontrei problemas na sessão Projetos. Os cards estão ficando sobrepostos ao sidebar (Buscando solução) ":beetle:"
+- Encontrei problemas na sessão Projetos. Os cards estão ficando sobrepostos ao sidebar (Buscando solução)  :beetle: ":wrench:"
 
-- precisei usar imagens da internet, porque não estava sendo possível utlizar as locais( Buscando solução) ":beetle:"
+- precisei usar imagens da internet, porque não estava sendo possível utlizar as locais( Buscando solução)  :beetle: ":wrench:"
 
-- Ainda não consegui resolver o problema da sidebar ":beetle:"
+- Ainda não consegui resolver o problema da sidebar :beetle: ":wrench:"
 
-- O problema da sidebar foi resolvido utilizando o comando "z-index" :wrench:
+- O problema da sidebar foi resolvido utilizando o comando "z-index" :trophy:
 
 ## Sobre mim
 
