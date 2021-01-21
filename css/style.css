@@ -15,8 +15,7 @@
     --font-action: "muli", serif;
 }
 
-.
-html{
+.html{
     scroll-behavior: smooth;
 }
 
@@ -572,7 +571,7 @@ header {
 }
 
 .orcamento-wrapper {
-    width: 60%;
+    width: 55%;
     height: 60%;
     background-color: #f3f2f2f1;
     border-radius: 10px;
@@ -580,7 +579,7 @@ header {
     position: relative;
     opacity: 0.97;
     bottom: 2rem;
-    margin-left: 9rem;
+    margin-left: 20rem;
 }
 
 .sessao-orcamento h1 {
@@ -600,40 +599,45 @@ header {
     border-radius: 10px;
 }
 
-.sessao-orcamento form {
+.sessao-orcamento form{
     margin: 4rem;
     display: grid;
     grid-template-columns: auto 1fr;
     column-gap: 2rem;
     row-gap: 2rem;
-}
-
-.sessao-orcamento label {
+    
+  }
+  
+  .sessao-orcamento label{
     font-family: var(--font-action);
-    font-size: 1.2rem;
-}
-
-.sessao-orcamento input[type="number"] {
+    font-size: 1.5rem;
+  }
+  
+  .sessao-orcamento input[type="number"]{
     font-family: var(--font-secundary);
     width: 4rem;
-    font-size: 1.2rem;
+    font-size: 2rem;
     outline: none;
     border-radius: 10px;
     border: none;
-    padding: 0.5rem;
-}
-
-.btn-orcamento {
+    padding: 0.3rem;
+  }
+  
+  .btn-orcamento{
+    margin-left: 10rem;
+    margin-top: 3rem;
     text-transform: uppercase;
-    padding: 1rem;
     cursor: pointer;
-    grid-column: 2;
-    background: #8E2DE2;
-    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);
-    background: linear-gradient(to right, #4A00E0, #8E2DE2);
-    border-radius: 10px;
-    margin-top: 4rem;
-}
+    border-radius: 20px;
+    background: #6a3093;
+    background: -webkit-linear-gradient(to right, #a044ff, #6a3093);
+    background: linear-gradient(to left, #a044ff, #6a3093);
+    padding: 1rem 1rem;
+    width: 15rem;
+    color: #fff;
+    font-family: var(--font-secundary);
+    font-size: 1.2rem;
+  }
 
 footer {
     width: 100%;

@@ -17,6 +17,7 @@ Projeto desenvolvido com as tecnologias HTML5 - CSS3 - JAVASCRIPT. Edição e ve
 - :speech_balloon: Aguardando comentários
 - :wrench: Corrigido
 - :trophy: Congratulações
+- :construction: Em construção
 
 ## Cometários
 
@@ -31,6 +32,10 @@ Projeto desenvolvido com as tecnologias HTML5 - CSS3 - JAVASCRIPT. Edição e ve
 - Ainda não consegui resolver o problema da sidebar :beetle: ":wrench:"
 
 - O problema da sidebar foi resolvido utilizando o comando "z-index" :trophy:
+
+- Nenhum outro problema ocorreu até aqui.
+
+- Ao que tudo indica, o autor do curso não tem atualizado seu canal, portanto, estou por minha conta em colocar funcionalidades e responsividade ao projeto. 
 
 ## Sobre mim
 
